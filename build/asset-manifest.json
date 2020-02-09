@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/big-o-notation/static/css/main.0e98aff1.chunk.css",
+    "main.js": "/big-o-notation/static/js/main.640137bb.chunk.js",
+    "main.js.map": "/big-o-notation/static/js/main.640137bb.chunk.js.map",
+    "runtime-main.js": "/big-o-notation/static/js/runtime-main.75f989c9.js",
+    "runtime-main.js.map": "/big-o-notation/static/js/runtime-main.75f989c9.js.map",
+    "static/js/2.732e8411.chunk.js": "/big-o-notation/static/js/2.732e8411.chunk.js",
+    "static/js/2.732e8411.chunk.js.map": "/big-o-notation/static/js/2.732e8411.chunk.js.map",
+    "index.html": "/big-o-notation/index.html",
+    "precache-manifest.6d414359a9a7fb5ce83476fb4f18f374.js": "/big-o-notation/precache-manifest.6d414359a9a7fb5ce83476fb4f18f374.js",
+    "service-worker.js": "/big-o-notation/service-worker.js",
+    "static/css/main.0e98aff1.chunk.css.map": "/big-o-notation/static/css/main.0e98aff1.chunk.css.map",
+    "static/js/2.732e8411.chunk.js.LICENSE.txt": "/big-o-notation/static/js/2.732e8411.chunk.js.LICENSE.txt",
+    "static/media/big-o-running-time.png": "/big-o-notation/static/media/big-o-running-time.c6080119.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75f989c9.js",
+    "static/js/2.732e8411.chunk.js",
+    "static/css/main.0e98aff1.chunk.css",
+    "static/js/main.640137bb.chunk.js"
+  ]
+}
